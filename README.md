@@ -4,11 +4,8 @@ A small utility script to recover all messages sent in Slack into a Discord Serv
 
 Dependencies:
 
-- Discord.py 2.x ( to be installed from source 
+- Discord.py 2.x ( to be installed from source [here](https://github.com/Rapptz/discord.py)  )
 
-  [here]: https://github.com/Rapptz/discord.py
-
-  )
 
 
 
