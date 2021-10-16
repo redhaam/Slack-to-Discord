@@ -1,0 +1,8 @@
+{
+  "USERS_FILE_PATH": "PATH to users.json from Slack Export",
+  "EMBED_COLOR": "0x00FF00",
+  "channel": "NAME OF THE SLACK CHANNEL TO BACKUP",
+  "CHANNEL_ID": "ID of the destination Discord Channel",
+  "START_DATE": "27-07-2021",
+  "END_DATE": "28-07-2021"
+}
