@@ -11,8 +11,8 @@ Dependencies:
 
 Screenshots :
 
-![](/media/Red/Me/Dev/python/Slack-Messages-backup/images/nebu-message-slack.png)
+![](images/nebu-message-slack.png)
 
-![](/media/Red/Me/Dev/python/Slack-Messages-backup/images/nebu-message-discord.png)
+![](images/nebu-message-discord.png)
 
-![](/media/Red/Me/Dev/python/Slack-Messages-backup/images/nebu-message-discord-expanded.png)
+![](images/nebu-message-discord-expanded.png)
